@@ -1,0 +1,10 @@
+[package]
+name = "jungle"
+version = "0.1.0"
+authors = ["Carson Page <carson.page@xmicrowave.com>"]
+description = "A fast, safe Tree Library in rust."
+
+readme = "README.md"
+keywords = ["tree", "safe", "fast"]
+license = "Apache-2.0/MIT"
+[dependencies]
