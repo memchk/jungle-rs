@@ -1,6 +1,6 @@
 [package]
 name = "jungle"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Carson Page <carson.page@xmicrowave.com>"]
 description = "A fast, safe Tree Library in rust."
 
@@ -8,5 +8,7 @@ readme = "README.md"
 keywords = ["tree", "safe", "fast"]
 license = "Apache-2.0/MIT"
 
+repository    = "https://github.com/memchk/jungle-rs"
+documentation = "https://docs.rs/jungle/*/jungle/"
 [dependencies]
 generic-array = "0.5.1"
