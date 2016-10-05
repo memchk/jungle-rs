@@ -9,6 +9,6 @@ keywords = ["tree", "safe", "fast"]
 license = "Apache-2.0/MIT"
 
 repository    = "https://github.com/memchk/jungle-rs"
-documentation = "https://docs.rs/jungle/*/jungle/"
+documentation = "https://docs.rs/jungle"
 [dependencies]
 generic-array = "0.5.1"
