@@ -7,4 +7,6 @@ description = "A fast, safe Tree Library in rust."
 readme = "README.md"
 keywords = ["tree", "safe", "fast"]
 license = "Apache-2.0/MIT"
+
 [dependencies]
+generic-array = "0.5.1"
